@@ -47,7 +47,6 @@ adb shell pm uninstall -k --user 0 com.facebook.system
 adb shell pm uninstall -k --user 0 com.flipboard.app
 adb shell pm uninstall -k --user 0 com.flipboard.boxer.app
 adb shell pm uninstall -k --user 0 com.google.android.apps.books
-adb shell pm uninstall -k --user 0 com.google.android.apps.docs
 adb shell pm uninstall -k --user 0 com.google.android.apps.magazines
 adb shell pm uninstall -k --user 0 com.google.android.apps.plus
 adb shell pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
