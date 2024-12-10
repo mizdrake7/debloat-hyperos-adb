@@ -289,3 +289,7 @@ adb shell pm uninstall -k --user 0 org.mipay.android.manager
 adb shell pm uninstall -k --user 0 com.google.android.overlay.gmsconfig.personalsafety
 adb shell pm uninstall -k --user 0 com.google.android.safetycenter.resources
 adb shell pm uninstall -k --user 0 com.google.android.apps.safetyhub
+adb shell pm uninstall -k --user 0 com.google.android.health.connect.backuprestore
+adb shell pm uninstall -k --user 0 com.google.android.apps.healthdata
+adb shell pm uninstall -k --user 0 com.google.android.healthconnect.controller
+adb shell pm uninstall -k --user 0 com.google.android.overlay.healthconnect
