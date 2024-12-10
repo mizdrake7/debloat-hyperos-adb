@@ -53,7 +53,6 @@ adb shell pm uninstall -k --user 0 com.google.android.apps.plus
 adb shell pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
 adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
 adb shell pm uninstall -k --user 0 com.google.android.apps.youtube.music
-adb shell pm uninstall -k --user 0 com.google.android.gm
 adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox
 adb shell pm uninstall -k --user 0 com.google.android.marvin.talkback
 adb shell pm uninstall -k --user 0 com.google.android.music
