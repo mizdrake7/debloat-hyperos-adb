@@ -90,7 +90,6 @@ adb shell pm uninstall -k --user 0 com.mintgames.wordtrip
 adb shell pm uninstall -k --user 0 com.mipay.wallet.id
 adb shell pm uninstall -k --user 0 com.mipay.wallet.in
 adb shell pm uninstall -k --user 0 com.miui.analytics
-adb shell pm uninstall -k --user 0 com.miui.android.fashiongallery
 adb shell pm uninstall -k --user 0 com.miui.audioeffect
 adb shell pm uninstall -k --user 0 com.miui.audiomonitor
 adb shell pm uninstall -k --user 0 com.miui.bugreport
