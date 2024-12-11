@@ -293,3 +293,5 @@ adb shell pm uninstall -k --user 0 com.google.android.health.connect.backupresto
 adb shell pm uninstall -k --user 0 com.google.android.apps.healthdata
 adb shell pm uninstall -k --user 0 com.google.android.healthconnect.controller
 adb shell pm uninstall -k --user 0 com.google.android.overlay.healthconnect
+adb shell pm uninstall -k --user 0 com.android.mms
+adb shell pm uninstall -k --user 0 com.preff.kb.xm
