@@ -264,7 +264,6 @@ adb shell pm uninstall -k --user 0 com.xiaomi.ab
 adb shell pm uninstall -k --user 0 com.xiaomi.aiasst.service
 adb shell pm uninstall -k --user 0 com.xiaomi.aiasst.vision
 adb shell pm uninstall -k --user 0 com.xiaomi.bluetooth
-adb shell pm uninstall -k --user 0 com.xiaomi.calendar
 adb shell pm uninstall -k --user 0 com.xiaomi.gamecenter.sdk.service
 adb shell pm uninstall -k --user 0 com.xiaomi.glgm
 adb shell pm uninstall -k --user 0 com.xiaomi.gnss.polaris
