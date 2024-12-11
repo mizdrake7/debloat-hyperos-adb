@@ -293,3 +293,4 @@ adb shell pm uninstall -k --user 0 com.google.android.healthconnect.controller
 adb shell pm uninstall -k --user 0 com.google.android.overlay.healthconnect
 adb shell pm uninstall -k --user 0 com.android.mms
 adb shell pm uninstall -k --user 0 com.preff.kb.xm
+adb shell pm disable-user com.preff.kb.xm
